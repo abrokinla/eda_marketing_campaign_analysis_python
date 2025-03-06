@@ -150,7 +150,7 @@ Execute the analysis by first opening JJupyter-Notebook:
 
 ### Contact
 
-For any questions or further information, please contacr:
+For any questions or further information, please contact:
 
 - **Name**: Araoye Abraham A.
 - **Email**: <abrokinla@gmail.com>
