@@ -120,4 +120,37 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/abrokinla/https://github.com/abrokinla/eda_marketing_campaign_analysis_python.git
    cd eda_marketing_campaign_analysis_python
-   
+
+2. **Install Dependencies:**
+```bash
+   pip install -r requirements.txt
+```
+
+### Running the Analysis
+
+Execute the analysis by first opening JJupyter-Notebook:
+```bash
+  jupyter-notebook
+```
+### Technologies Used
+
+- Programming Language: Python
+- Libraries:
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - NumPy
+  - DateUtil (Parser)
+
+### Next Steps
+
+- Implement <<A/B testing to further validate findings.
+- Continuously  refine targeting strategies based on new data.
+- Optimize campaigns by reallocating budgets according to high-ROI channels and reginonal performance.
+
+### Contact
+
+For any questions or further information, please contacr:
+
+- **Name**: Araoye Abraham A.
+- **Email**: <abrokinla@gmail.com>
