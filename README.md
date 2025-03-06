@@ -128,7 +128,7 @@ Ensure you have the following installed:
 
 ### Running the Analysis
 
-Execute the analysis by first opening JJupyter-Notebook:
+Execute the analysis by first opening Jupyter-Notebook:
 ```bash
   jupyter-notebook
 ```
@@ -144,7 +144,7 @@ Execute the analysis by first opening JJupyter-Notebook:
 
 ### Next Steps
 
-- Implement <<A/B testing to further validate findings.
+- Implement A/B testing to further validate findings.
 - Continuously  refine targeting strategies based on new data.
 - Optimize campaigns by reallocating budgets according to high-ROI channels and reginonal performance.
 
